@@ -1,0 +1,15 @@
+group: ITS
+
+Mahasiswa = 
+{
+	nrp:string, nama_lengkap:string, gender:string, asal_sekolah:string, alamat:string, dosen_wali:string
+	'001'     , 'muhammad nia'     , 'cewe'       , 'sma 8'            , 'bandung'    , 'a'              
+	'002'     , 'ahmad bram'       , 'cowo'       , 'sma 82'           , 'jabar'      , 'b'              
+}
+
+Dosen = 
+{
+	nip:string, nama_lengkap:string, telp:string
+	'a'       , 'Bekti cahyo'      , '000000002'
+	'b'       , 'Pak titan'        , '001201030'
+}
